@@ -74,6 +74,7 @@ assets/
 
 Optional: Connect Firebase Dynamic Links or pass UTM parameters for realistic simulation.
 
+
 🤖 Gemini API (Mock or Real)
 You can simulate Gemini-style responses by editing gemini_service.dart, or integrate with a real Gemini-compatible backend (Flask/FastAPI).
 
@@ -85,6 +86,7 @@ Sample Response Format
   "ctaButton": "Join the Movement",
   "tone": "Casual, energetic"
 }
+
 
 ✨ Example Use Cases
  | Channel Source | Predicted Intent             | UI Behavior                                      |
@@ -103,14 +105,17 @@ Narrated Insights: Voice-over summaries (TTS enabled)
 
 Export Summary: Generate PDF/CSV insight reports with one click
 
+
 📄 License
 This project is licensed under the MIT License.
+
 
 👩‍💻 Author
 Sudarshanam Yessasvini
 📧 yessasvini.s@gmail.com
 🌐 Portfolio
 🔗 LinkedIn
+
 
 💡 Contributing
 PRs and suggestions are welcome! If you find a bug or want to add new Gemini-powered features, feel free to open an issue or fork the repo.
